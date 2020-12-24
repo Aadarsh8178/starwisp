@@ -32,7 +32,7 @@ export const SideOrange = styled.div`
   padding: 1rem;
   width: 150px;
   background: ${({ theme }) => theme.colors.primary};
-  transform: translateX(-10px);
+  transform: translateX(-15px);
   font-size: ${({ theme }) => theme.fontSizes.mediumBig};
   font-weight: normal;
   color: white;

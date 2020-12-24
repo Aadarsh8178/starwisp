@@ -33,21 +33,21 @@ function index(props) {
     datasets: [
       {
         label: "",
-        data: [100, 200, 130, 390, 240, 310],
+        data: [100, 600, 600, 100, 240, 310],
         backgroundColor: "#FFFFFF",
         borderColor: "red",
         borderWidth: 5,
       },
       {
         label: "",
-        data: [200, 100, 230, 190, 540, 110],
+        data: [200, 100, 200, 400, 540, 110],
         backgroundColor: "#FFFFFF",
         borderColor: "blue",
         borderWidth: 5,
       },
       {
         label: "",
-        data: [30, 300, 430, 290, 140, 210],
+        data: [30, 500, 400, 600, 140, 410],
         backgroundColor: "#FFFFFF",
         borderColor: "yellow",
         borderWidth: 5,
